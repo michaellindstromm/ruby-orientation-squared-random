@@ -1,0 +1,1 @@
+# ruby-orientation-squared-random
